@@ -27,7 +27,7 @@
 > 
 > [2. 开放封闭原则(OCP Open Closed Principle)](https://github.com/ColdPuppy/Android-Notes/blob/master/Android-Design-Principle/%E5%85%AD%E5%A4%A7%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99%E4%B9%8B%E5%BC%80%E6%94%BE%E5%B0%81%E9%97%AD%E5%8E%9F%E5%88%99.md)
 > 
-> [3. 里氏替换原则(LSP Liskov Substitution Principle)]()
+> [3. 里氏替换原则(LSP Liskov Substitution Principle)](https://github.com/ColdPuppy/Android-Notes/blob/master/Android-Design-Principle/%E5%85%AD%E5%A4%A7%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99%E4%B9%8B%E9%87%8C%E6%B0%8F%E6%9B%BF%E6%8D%A2%E5%8E%9F%E5%88%99.md)
 > 
 > [4. 依赖倒置原则(DIP Dependence Inversion Principle )]()
 > 
