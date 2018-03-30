@@ -23,7 +23,7 @@
 做任何事都要遵从一些规范，才能得到广泛的认可。Android设计模式就需要遵从如下六大原则去设计去丰富。
 ![设计模式六大原则](http://7xslhx.com1.z0.glb.clouddn.com/android_pic/%E5%85%AD%E5%A4%A7%E5%8E%9F%E5%88%99.png)
 
-> [1. 单一职责原则(SRP Single Responsibility Principle)]()
+> [1. 单一职责原则(SRP Single Responsibility Principle)](https://github.com/ColdPuppy/Android-Notes/blob/master/Android-Design-Principle/%E5%85%AD%E5%A4%A7%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99%E4%B9%8B%E5%8D%95%E4%B8%80%E8%81%8C%E8%B4%A3%E5%8E%9F%E5%88%99.md)
 > 
 > [2. 开放封闭原则(OCP Open Closed Principle) ]()
 > 
