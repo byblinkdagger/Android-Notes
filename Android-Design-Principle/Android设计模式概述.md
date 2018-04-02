@@ -31,7 +31,7 @@
 > 
 > [4. 依赖倒置原则(DIP Dependence Inversion Principle)](https://github.com/ColdPuppy/Android-Notes/blob/master/Android-Design-Principle/%E5%85%AD%E5%A4%A7%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99%E4%B9%8B%E4%BE%9D%E8%B5%96%E5%80%92%E7%BD%AE%E5%8E%9F%E5%88%99.md)
 > 
-> [5. 迪米特原则(LoD Law of Demeter)]()
+> [5. 迪米特原则(LoD Law of Demeter)](https://github.com/ColdPuppy/Android-Notes/blob/master/Android-Design-Principle/%E5%85%AD%E5%A4%A7%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99%E4%B9%8B%E8%BF%AA%E7%B1%B3%E7%89%B9%E5%8E%9F%E5%88%99.md)
 > 
 > [6. 接口隔离原则(ISP Interface Segregation Principle)]()
 
