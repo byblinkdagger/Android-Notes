@@ -29,7 +29,7 @@
 > 
 > [3. 里氏替换原则(LSP Liskov Substitution Principle)](https://github.com/ColdPuppy/Android-Notes/blob/master/Android-Design-Principle/%E5%85%AD%E5%A4%A7%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99%E4%B9%8B%E9%87%8C%E6%B0%8F%E6%9B%BF%E6%8D%A2%E5%8E%9F%E5%88%99.md)
 > 
-> [4. 依赖倒置原则(DIP Dependence Inversion Principle )]()
+> [4. 依赖倒置原则(DIP Dependence Inversion Principle)](https://github.com/ColdPuppy/Android-Notes/blob/master/Android-Design-Principle/%E5%85%AD%E5%A4%A7%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99%E4%B9%8B%E4%BE%9D%E8%B5%96%E5%80%92%E7%BD%AE%E5%8E%9F%E5%88%99.md)
 > 
 > [5. 迪米特原则(LoD Law of Demeter)]()
 > 
