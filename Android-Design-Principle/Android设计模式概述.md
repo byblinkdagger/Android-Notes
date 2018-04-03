@@ -33,7 +33,7 @@
 > 
 > [5. 迪米特原则(LoD Law of Demeter)](https://github.com/ColdPuppy/Android-Notes/blob/master/Android-Design-Principle/%E5%85%AD%E5%A4%A7%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99%E4%B9%8B%E8%BF%AA%E7%B1%B3%E7%89%B9%E5%8E%9F%E5%88%99.md)
 > 
-> [6. 接口隔离原则(ISP Interface Segregation Principle)]()
+> [6. 接口隔离原则(ISP Interface Segregation Principle)](https://github.com/ColdPuppy/Android-Notes/blob/master/Android-Design-Principle/%E5%85%AD%E5%A4%A7%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99%E4%B9%8B%E6%8E%A5%E5%8F%A3%E9%9A%94%E7%A6%BB%E5%8E%9F%E5%88%99.md)
 
 ---
 
