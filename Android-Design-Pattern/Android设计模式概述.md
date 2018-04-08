@@ -46,7 +46,7 @@
 
 > [1. 创建型设计模式——单例模式](https://github.com/ColdPuppy/Android-Notes/blob/master/Android-Design-Pattern/%E5%88%9B%E5%BB%BA%E5%9E%8B%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.md) √
 > 
-> [2. 创建型设计模式——建造者模式]()
+> [2. 创建型设计模式——建造者模式](https://github.com/ColdPuppy/Android-Notes/blob/master/Android-Design-Pattern/%E5%88%9B%E5%BB%BA%E5%9E%8B%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E5%BB%BA%E9%80%A0%E8%80%85%E6%A8%A1%E5%BC%8F.md) √
 > 
 > [3. 创建型设计模式——原型模式]()
 > 
