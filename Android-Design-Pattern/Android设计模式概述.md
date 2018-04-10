@@ -23,17 +23,17 @@
 做任何事都要遵从一些规范，才能得到广泛的认可。Android设计模式就需要遵从如下六大原则去设计去丰富。
 ![设计模式六大原则](http://7xslhx.com1.z0.glb.clouddn.com/android_pic/%E5%85%AD%E5%A4%A7%E5%8E%9F%E5%88%99.png)
 
-> [1. 单一职责原则(SRP Single Responsibility Principle)](https://github.com/ColdPuppy/Android-Notes/blob/master/Android-Design-Principle/%E5%85%AD%E5%A4%A7%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99%E4%B9%8B%E5%8D%95%E4%B8%80%E8%81%8C%E8%B4%A3%E5%8E%9F%E5%88%99.md) √
+> [1. 单一职责原则(SRP Single Responsibility Principle)](https://github.com/ColdPuppy/Android-Notes/blob/master/Android-Design-Pattern/%E5%85%AD%E5%A4%A7%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99%E4%B9%8B%E5%8D%95%E4%B8%80%E8%81%8C%E8%B4%A3%E5%8E%9F%E5%88%99.md) √
 > 
-> [2. 开放封闭原则(OCP Open Closed Principle)](https://github.com/ColdPuppy/Android-Notes/blob/master/Android-Design-Principle/%E5%85%AD%E5%A4%A7%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99%E4%B9%8B%E5%BC%80%E6%94%BE%E5%B0%81%E9%97%AD%E5%8E%9F%E5%88%99.md) √
+> [2. 开放封闭原则(OCP Open Closed Principle)](https://github.com/ColdPuppy/Android-Notes/blob/master/Android-Design-Pattern/%E5%85%AD%E5%A4%A7%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99%E4%B9%8B%E5%BC%80%E6%94%BE%E5%B0%81%E9%97%AD%E5%8E%9F%E5%88%99.md) √
 > 
-> [3. 里氏替换原则(LSP Liskov Substitution Principle)](https://github.com/ColdPuppy/Android-Notes/blob/master/Android-Design-Principle/%E5%85%AD%E5%A4%A7%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99%E4%B9%8B%E9%87%8C%E6%B0%8F%E6%9B%BF%E6%8D%A2%E5%8E%9F%E5%88%99.md) √
+> [3. 里氏替换原则(LSP Liskov Substitution Principle)](https://github.com/ColdPuppy/Android-Notes/blob/master/Android-Design-Pattern/%E5%85%AD%E5%A4%A7%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99%E4%B9%8B%E9%87%8C%E6%B0%8F%E6%9B%BF%E6%8D%A2%E5%8E%9F%E5%88%99.md) √
 > 
-> [4. 依赖倒置原则(DIP Dependence Inversion Principle)](https://github.com/ColdPuppy/Android-Notes/blob/master/Android-Design-Principle/%E5%85%AD%E5%A4%A7%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99%E4%B9%8B%E4%BE%9D%E8%B5%96%E5%80%92%E7%BD%AE%E5%8E%9F%E5%88%99.md) √
+> [4. 依赖倒置原则(DIP Dependence Inversion Principle)](https://github.com/ColdPuppy/Android-Notes/blob/master/Android-Design-Pattern/%E5%85%AD%E5%A4%A7%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99%E4%B9%8B%E4%BE%9D%E8%B5%96%E5%80%92%E7%BD%AE%E5%8E%9F%E5%88%99.md) √
 > 
-> [5. 迪米特原则(LoD Law of Demeter)](https://github.com/ColdPuppy/Android-Notes/blob/master/Android-Design-Principle/%E5%85%AD%E5%A4%A7%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99%E4%B9%8B%E8%BF%AA%E7%B1%B3%E7%89%B9%E5%8E%9F%E5%88%99.md) √
+> [5. 迪米特原则(LoD Law of Demeter)](https://github.com/ColdPuppy/Android-Notes/blob/master/Android-Design-Pattern/%E5%85%AD%E5%A4%A7%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99%E4%B9%8B%E8%BF%AA%E7%B1%B3%E7%89%B9%E5%8E%9F%E5%88%99.md) √
 > 
-> [6. 接口隔离原则(ISP Interface Segregation Principle)](https://github.com/ColdPuppy/Android-Notes/blob/master/Android-Design-Principle/%E5%85%AD%E5%A4%A7%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99%E4%B9%8B%E6%8E%A5%E5%8F%A3%E9%9A%94%E7%A6%BB%E5%8E%9F%E5%88%99.md) √
+> [6. 接口隔离原则(ISP Interface Segregation Principle)](https://github.com/ColdPuppy/Android-Notes/blob/master/Android-Design-Pattern/%E5%85%AD%E5%A4%A7%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99%E4%B9%8B%E6%8E%A5%E5%8F%A3%E9%9A%94%E7%A6%BB%E5%8E%9F%E5%88%99.md) √
 
 ---
 
@@ -50,7 +50,7 @@
 > 
 > [3. 创建型设计模式——原型模式](https://github.com/ColdPuppy/Android-Notes/blob/master/Android-Design-Pattern/%E5%88%9B%E5%BB%BA%E5%9E%8B%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E5%8E%9F%E5%9E%8B%E6%A8%A1%E5%BC%8F.md) √
 > 
-> [4. 创建型设计模式——简单工厂模式]()
+> [4. 创建型设计模式——简单工厂模式](https://github.com/ColdPuppy/Android-Notes/blob/master/Android-Design-Pattern/%E5%88%9B%E5%BB%BA%E5%9E%8B%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E7%AE%80%E5%8D%95%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F.md) √
 > 
 > [5. 创建型设计模式——工厂模式]()
 > 
