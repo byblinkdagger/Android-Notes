@@ -54,7 +54,7 @@
 > 
 > [5. 创建型设计模式——工厂模式](https://github.com/ColdPuppy/Android-Notes/blob/master/Android-Design-Pattern/%E5%88%9B%E5%BB%BA%E5%9E%8B%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F.md) √
 > 
-> [6. 创建型设计模式——抽象工厂模式]()
+> [6. 创建型设计模式——抽象工厂模式](https://github.com/ColdPuppy/Android-Notes/blob/master/Android-Design-Pattern/%E5%88%9B%E5%BB%BA%E5%9E%8B%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E6%8A%BD%E8%B1%A1%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F.md) √
 
 **结构型设计模式**
 
