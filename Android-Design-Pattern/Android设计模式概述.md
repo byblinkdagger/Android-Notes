@@ -58,7 +58,7 @@
 
 **结构型设计模式**
 
-> [1. 结构型设计模式——适配器模式]()
+> [1. 结构型设计模式——适配器模式](https://github.com/ColdPuppy/Android-Notes/blob/master/Android-Design-Pattern/%E7%BB%93%E6%9E%84%E5%9E%8B%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E9%80%82%E9%85%8D%E5%99%A8%E6%A8%A1%E5%BC%8F.md) √
 > 
 > [2. 结构型设计模式——组合模式]()
 > 
