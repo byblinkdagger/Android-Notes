@@ -62,7 +62,7 @@
 > 
 > [2. 结构型设计模式——组合模式](https://github.com/ColdPuppy/Android-Notes/blob/master/Android-Design-Pattern/%E7%BB%93%E6%9E%84%E5%9E%8B%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E7%BB%84%E5%90%88%E6%A8%A1%E5%BC%8F.md) √
 > 
-> [3. 结构型设计模式——装饰模式]()
+> [3. 结构型设计模式——装饰模式](https://github.com/ColdPuppy/Android-Notes/blob/master/Android-Design-Pattern/%E7%BB%93%E6%9E%84%E5%9E%8B%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E8%A3%85%E9%A5%B0%E6%A8%A1%E5%BC%8F.md) √
 > 
 > [4. 结构型设计模式——外观模式]()
 > 
