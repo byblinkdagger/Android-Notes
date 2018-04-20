@@ -68,7 +68,7 @@
 > 
 > [5. 结构型设计模式——桥接模式](https://github.com/ColdPuppy/Android-Notes/blob/master/Android-Design-Pattern/%E7%BB%93%E6%9E%84%E5%9E%8B%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E6%A1%A5%E6%8E%A5%E6%A8%A1%E5%BC%8F.md) √
 > 
-> [6. 结构型设计模式——享元模式]()
+> [6. 结构型设计模式——享元模式](https://github.com/ColdPuppy/Android-Notes/blob/master/Android-Design-Pattern/%E7%BB%93%E6%9E%84%E5%9E%8B%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E4%BA%AB%E5%85%83%E6%A8%A1%E5%BC%8F.md) √
 > 
 > [7. 结构型设计模式——代理模式]()
 
