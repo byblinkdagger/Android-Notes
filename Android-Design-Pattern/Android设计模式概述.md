@@ -74,7 +74,7 @@
 
 **行为型设计模式**
 
-> [1. 行为型设计模式——模板模式]()
+> [1. 行为型设计模式——模板模式](https://github.com/ColdPuppy/Android-Notes/blob/master/Android-Design-Pattern/%E8%A1%8C%E4%B8%BA%E5%9E%8B%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E6%A8%A1%E6%9D%BF%E6%A8%A1%E5%BC%8F.md) √
 > 
 > [2. 行为型设计模式——解释器模式]()
 > 
